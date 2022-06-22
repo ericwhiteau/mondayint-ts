@@ -1,0 +1,5 @@
+runtime: nodejs14
+env_variables:
+  MONDAY_SIGNING_SECRET: d3821451d8f3875fea03a4c1962ed014
+  API_TOKEN: eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjEwMjA0MzkyNCwidWlkIjoxNDUwMTMwOCwiaWFkIjoiMjAyMS0wMy0wNlQwODo1MDozOS4wMDBaIiwicGVyIjoibWU6d3JpdGUiLCJhY3RpZCI6NjMzOTQwMSwicmduIjoidXNlMSJ9.3mPWVJ_robsfJ0VJpJ9o_ynmhMUAQWw2JwIrWilBOxE
+ 
